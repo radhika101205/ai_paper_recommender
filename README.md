@@ -36,5 +36,16 @@ Our model was trained to accurately identify these indicators and classify paper
 
 ---
 
+##  Dataset
+
+- Total: 150 research papers  
+- Labeled: 15 papers  
+- Format: PDF to structured text  
+- Label classes:  
+  - `1`: Publishable  
+  - `0`: Non-Publishable
+
+---
+
 
 
